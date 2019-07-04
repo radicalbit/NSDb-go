@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	pb "github.com/radicalbit/nsdb-go-client/proto"
+	pb "github.com/radicalbit/NSDb-go/proto"
 
 	"google.golang.org/grpc"
 	//"google.golang.org/grpc/testdata"

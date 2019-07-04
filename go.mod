@@ -1,4 +1,4 @@
-module github.com/radicalbit/nsdb-go-client
+module github.com/radicalbit/NSDb-go
 
 go 1.12
 
